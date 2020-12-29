@@ -16,7 +16,7 @@
                       {
                 ?>
     			<ul>
-			    	<li><a href="index.php?ac=loai&id=<?php echo $row['maloaisp'] ?>"><?php echo $row['tenloaisp'] ?></a></li>
+			    	//<li><a href="index.php?ac=loai&id=<?php echo $row['maloaisp'] ?>"><?php echo $row['tenloaisp'] ?></a></li>
 			    	
      			</ul>
      			<?php } ?>
