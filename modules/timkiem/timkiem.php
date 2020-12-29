@@ -2,7 +2,7 @@
 	<div class="content">
 		<div class="content_top">
 			<div class="heading">
-				<h3>Tìm Kiếm</h3>
+				<h3>Tìm kiem</h3>
 			</div>
 			<div class="see">
 				<p><a href="index.php?ac=dienthoai">Tất cả sản phẩm</a></p>
