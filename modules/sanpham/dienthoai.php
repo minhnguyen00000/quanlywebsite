@@ -66,7 +66,7 @@
                       <h4><a href="index.php?ac=themgiohang&id=<?php echo $row['masanpham'] ?>">Mua ngay</a></h4>
                     <?php endif ?>
                     <?php if($row['tinhtrang']==1): ?> 
-                      <button type="button" class="btn btn-warning">Sản phẩm tạm hết hàng</button>
+                      <button type="button" class="btn btn-warning">Sản phẩm tạm hết hàng !!!</button>
                     <?php endif ?>
 							     </div>
 							 <div class="clear"></div>
