@@ -1,3 +1,4 @@
+//đã fix lỗi
 <?php
 if(isset($_POST['btndangnhap']))
 {
@@ -25,7 +26,7 @@ else
 ?>
 <div class="content_top">
   <div class="heading">
-    <h3>Đăng nhập</h3>
+    <h3>Đăng Nhập</h3>
   </div>
   
   <div class="clear"></div>
