@@ -1,3 +1,4 @@
+//đã fix lỗi files dangky
 <?php 
 include('config/config.php');
 
