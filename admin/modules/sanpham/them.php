@@ -198,7 +198,7 @@ if (isset($_POST['btnThem']))
           </div>
           
           <div class="form-group row">
-            <label for="hinh" class="col-sm-2 col-form-label">Hình ảnh</label>
+            <label for="hinh" class="col-sm-2 col-form-label">Hình ảnhz</label>
             <div class="col-sm-8">
             <input type="file" name="fileToUpload" class="form-control-file" required="">
             </div>
