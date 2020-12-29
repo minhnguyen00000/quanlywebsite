@@ -1,4 +1,4 @@
-//đã fix lỗi
+//đã fix lỗi lan 2
 <?php
 if(isset($_POST['btndangnhap']))
 {
