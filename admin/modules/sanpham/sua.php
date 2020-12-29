@@ -24,7 +24,7 @@ if (isset($_POST['btnSua']))
       //Chỉ thêm phần này nếu dùng để upload ảnh
       //Bien check de lay thong tin cua file ẢNH
           $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
-       if($check) {
+       //if($check) {
            // Kiểm tra file có tồn tại chưa
            if (file_exists($target_file)) {
                echo "File này đã tồn tại.";
